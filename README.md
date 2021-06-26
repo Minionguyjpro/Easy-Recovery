@@ -6,4 +6,5 @@ An program to easily go into Recovery Mode by rebooting the system into Recovery
 Ive added every thing that's in the Recovery Mode, so you can also download single files for Recovery items, like an single UEFI/BIOS boot application.
 ## Easy UEFI
 Using this application automatticaly restarts your PC into UEFI/BIOS mode.
+You can download via the source code or [Click here](https://github.com/minionguyjpro/easy-uefi) on my repo of it.
 
