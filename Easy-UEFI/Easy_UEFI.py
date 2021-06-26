@@ -1,2 +1,2 @@
 import subprocess
-subprocess.call([r'C:\Users\hwkru\Downloads\Easy_UEFI.bat'])
+subprocess.call([r'Easy_UEFI.bat'])
