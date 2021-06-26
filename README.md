@@ -5,4 +5,4 @@ Ive added every thing that's in the Recovery Mode, so you can also download sing
 ## Easy UEFI
 Using this application automatticaly restarts your PC into UEFI/BIOS mode.
 
-- ![#*Warning: This requires Administrator permission on your PC.](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#*Warning: This requires Administrator permission on your PC.](https://via.placeholder.com/15/f03c15/000000?text=+) `*Warning: This requires Administrator permission on your PC.`
