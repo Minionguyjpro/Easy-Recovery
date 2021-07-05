@@ -6,6 +6,6 @@ An program to easily go into Recovery Mode by rebooting the system into Recovery
 Ive added some components that are in the Recovery Mode, so you can also download components for Recovery items, like an single UEFI/BIOS boot application.
 ## Easy UEFI
 An program to easily go into the UEFI/BIOS in Windows.
- <br>[View Repository](https://github.com/minionguyjpro/easy-uefi)</br>
+ <br>[View Repository](https://github.com/minionguyjpro/easy-uefi) - [Download application](https://github.com/minionguyjpro/easy-uefi/releases)</br>
 
 
